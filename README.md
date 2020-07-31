@@ -23,7 +23,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 ```
 	dependencies {
-	        implementation 'com.github.YaphetZhao:bitmapsToMp4:Tag'
+	        implementation 'com.github.YaphetZhao:bitmapsToMp4:1.0'
 	}
 ```
 
@@ -86,3 +86,6 @@ Activity继承：IYapVideoProvider<Bitmap>
 微信：yaphetzhao92
 
 邮箱：yaphetzhao@foxmail.com
+
+如果您觉得对您有帮助，就请我喝杯咖啡吧
+![image](https://github.com/YaphetZhao/bitmapsToMp4/blob/master/wechat_qr.png)
