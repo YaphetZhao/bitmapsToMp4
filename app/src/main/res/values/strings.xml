@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">bitmapsToMp4</string>
+    <string name="bitmaps_to_mp4">Bitmaps To Mp4</string>
+    <string name="start_demo">start demo</string>
+    <string name="list_bitmap_to_video_mp4_nclick_the_start_demo_you_can_run_this_project_for_test"><![CDATA[List<Bitmap> to Video.mp4\nClick the \'START DEMO\' you can run this project for test]]></string>
+    <string name="test_img_from_https_www_pexels_com_zh_cn_photo_4449614">test img from \'https://www.pexels.com/zh-cn/photo/4449614/\'</string>
+    <string name="save_progress_0">Save Progress: 0%</string>
+    <string name="author_yaphetzhao_nwechat_yaphetzhao92_ngithub_https_github_com_yaphetzhao">author:YaphetZhao\nwechat:yaphetzhao92\ngithub:https://github.com/YaphetZhao</string>
+</resources>

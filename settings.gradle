@@ -1,0 +1,3 @@
+include ':bitmapstomp4'
+include ':app'
+rootProject.name = "bitmapsToMp4"
