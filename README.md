@@ -5,6 +5,28 @@ Bitmaps转Mp4视频
 如果是ImageView的话，提供了`YapVideoUtils.convertViewToBitmap(findViewById(R.id.img_test))`方法
 可以方便的把View专成bitmap
 
+## 引用
+How to
+To get a Git project into your build:
+
+Step 1. Add the JitPack repository to your build file
+
+Add it in your root build.gradle at the end of repositories:
+```
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+Step 2. Add the dependency
+```
+	dependencies {
+	        implementation 'com.github.YaphetZhao:bitmapsToMp4:Tag'
+	}
+```
+
 ## 1. 使用方法
 Activity继承：IYapVideoProvider<Bitmap>
 重写方法
@@ -54,9 +76,13 @@ Activity继承：IYapVideoProvider<Bitmap>
 ```
 
 ## 其他
+
 可以clone这个项目，运行app来查看demo效果
+
 如果有问题可以联系我
 
 ## 我
+
 微信：yaphetzhao92
+
 邮箱：yaphetzhao@foxmail.com
