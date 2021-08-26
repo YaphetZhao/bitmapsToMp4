@@ -88,4 +88,4 @@ Activity继承：IYapVideoProvider<Bitmap>
 邮箱：yaphetzhao@foxmail.com
 
 如果您觉得对您有帮助，就请我喝杯咖啡吧
-<img src="https://github.com/YaphetZhao/bitmapsToMp4/blob/master/wechatPay.jpg" width="50%">
+<img src="https://github.com/YaphetZhao/bitmapsToMp4/blob/master/wechatPay.jpg" width="20%" align="left">
